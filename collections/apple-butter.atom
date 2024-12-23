@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antiquecandleco.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antiquecandleco.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antiquecandleco.com/collections/apple-butter.atom"/>
+  <title>Antique Candle Co.</title>
+  <updated>2024-07-18T08:15:47-04:00</updated>
+  <author>
+    <name>Antique Candle Co.</name>
+  </author>
+  <entry>
+    <id>https://antiquecandleco.com/products/6607284764769</id>
+    <published>2024-07-18T08:15:47-04:00</published>
+    <updated>2024-07-18T08:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antiquecandleco.com/products/apple-butter-8-oz-candle"/>
+    <title>Apple Butter 8 oz candle</title>
+    <s:type>8 oz Candle</s:type>
+    <s:vendor>Antique Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/8831/5233/products/Product-AB__image24.jpg?v=1714491544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antique Candle Co.<br>
+        <strong>Type: </strong>8 oz Candle<br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<p data-mce-fragment="1" style="text-align: left;"><span data-mce-fragment="1" class="author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovvls4um6z83zz83zz87zz66zz72zuilz82zz81zz85zz77zz86zz83z9a2z77z5ns6kt"><span style="color: rgb(0, 0, 0);"><em><strong>Selling out for the season, and going fast! This scent will not return until next year.</strong></em></span></span></p>
+<p data-mce-fragment="1" style="text-align: left;"><span data-mce-fragment="1" class="author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovvls4um6z83zz83zz87zz66zz72zuilz82zz81zz85zz77zz86zz83z9a2z77z5ns6kt">Apple Butter is a delightful aroma of freshly baked apples blended with sugar, cinnamon, and clove, highlighted by fall pumpkin and sweet vanilla. </span></p>
+<p data-mce-fragment="1" style="text-align: left;"><span data-mce-fragment="1" data-contrast="auto" lang="EN-US" class="TextRun SCXW13603414 BCX0" xml:lang="EN-US"><span data-mce-fragment="1" class="NormalTextRun SCXW13603414 BCX0">BURN TIME + STRENGTH:<span> </span><em>Up to 40 hours of burn time.</em><span> </span>This <span data-mce-fragment="1" class="SpellingError SCXW161836134 BCX0">bakey</span><span data-mce-fragment="1" class="NormalTextRun SCXW161836134 BCX0"> and fruity fragrance features a moderate strength that transports you to a sunny orchard with homemade apple treats.</span></span></span></p>
+<p data-mce-fragment="1" style="text-align: left;">INGREDIENTS: Our candles are made in Lafayette, Indiana with a clean, long-lasting, and even burn thanks to high-quality materials.</p>
+<ul>
+<li style="text-align: left;">100% natural soy wax from domestically grown soy beans.</li>
+<li style="text-align: left;">Premium fragrance oils (hand-picked by thousands of candle testers across the U.S.!)</li>
+<li style="text-align: left;">100% lead-free cotton wicks.</li>
+<li style="text-align: left;">Paraffin free, dye free, and cruelty free. This fragrance is also phthalate and paraben free.</li>
+</ul>
+<p style="text-align: left;">WEIGHT: 6.9 oz (195.8 g)</p>
+<p style="text-align: left;">DIMENSIONS: 3.5” x 3” x 3”</p>
+<p style="text-align: left;">Enjoy<span> Apple Butter</span><span data-mce-fragment="1"> </span>in <a data-mce-fragment="1" href="https://antiquecandleco.com/collections/apple-butter" data-mce-href="https://antiquecandleco.com/collections/apple-butter">additional sizes and products</a>.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1 - $19</s:tag>
+    <s:tag>$20 - $39</s:tag>
+    <s:tag>40% off Cyber Monday</s:tag>
+    <s:tag>8 oz candles</s:tag>
+    <s:tag>_tab1_aa-shipping-returns</s:tag>
+    <s:tag>_tab2_candle-care-101</s:tag>
+    <s:tag>_tab3_happiness-guarantee-2</s:tag>
+    <s:tag>Apple Butter</s:tag>
+    <s:tag>B2G1</s:tag>
+    <s:tag>BFCM 2024</s:tag>
+    <s:tag>Cyber Monday 2022</s:tag>
+    <s:tag>facebookads</s:tag>
+    <s:tag>Fall Candles</s:tag>
+    <s:tag>Fall Launch 24</s:tag>
+    <s:tag>Last Chance</s:tag>
+    <s:tag>Last Chance Page</s:tag>
+    <s:tag>Not TF Shop All</s:tag>
+    <s:tag>notmatches</s:tag>
+    <s:tag>on_facebook</s:tag>
+    <s:tag>Sale Page</s:tag>
+    <s:tag>Shop All</s:tag>
+    <s:tag>Shop Small</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:variant>
+      <id>https://antiquecandleco.com/products/6607284764769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>AB 8</s:sku>
+      <s:grams>422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://antiquecandleco.com/products/6589672063073</id>
+    <published>2024-07-18T08:15:47-04:00</published>
+    <updated>2024-07-18T08:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antiquecandleco.com/products/apple-butter-16-oz-candle"/>
+    <title>Apple Butter 16 oz candle</title>
+    <s:type>16 oz Candle</s:type>
+    <s:vendor>Antique Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/8831/5233/products/Product-AB__image22.jpg?v=1688653552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antique Candle Co.<br>
+        <strong>Type: </strong>16 oz Candle<br>
+        <strong>Price: </strong>
+            22.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: rgb(0, 0, 0);"><em><strong><span class="author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovvls4um6z83zz83zz87zz66zz72zuilz82zz81zz85zz77zz86zz83z9a2z77z5ns6kt" data-mce-fragment="1">Selling out for the season, and going fast! This scent will not return until next year.</span></strong></em></span></p>
+<p data-mce-fragment="1"><span style="color: #e15e1e;" class="author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovvls4um6z83zz83zz87zz66zz72zuilz82zz81zz85zz77zz86zz83z9a2z77z5ns6kt" data-mce-fragment="1"><strong></strong></span><span class="author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovvls4um6z83zz83zz87zz66zz72zuilz82zz81zz85zz77zz86zz83z9a2z77z5ns6kt" data-mce-fragment="1">Apple Butter is a delightful aroma of freshly baked apples blended with sugar, cinnamon, and clove, highlighted by fall pumpkin and sweet vanilla. </span></p>
+<p data-mce-fragment="1"><span class="TextRun SCXW13603414 BCX0" lang="EN-US" data-contrast="auto" data-mce-fragment="1" xml:lang="EN-US"><span class="NormalTextRun SCXW13603414 BCX0" data-mce-fragment="1">BURN TIME + STRENGTH:<span> </span><em>Up to 64 hours of burn time.</em><span> </span>This <span class="SpellingError SCXW161836134 BCX0" data-mce-fragment="1">bakey</span><span class="NormalTextRun SCXW161836134 BCX0" data-mce-fragment="1"> and fruity fragrance features a moderate strength that transports you to a sunny orchard with homemade apple treats.</span></span></span></p>
+<p data-mce-fragment="1">INGREDIENTS: Our candles are made in Lafayette, Indiana with a clean, long-lasting, and even burn thanks to high-quality materials.</p>
+<ul>
+<li>100% natural soy wax from domestically grown soy beans.</li>
+<li>Premium fragrance oils (hand-picked by thousands of candle testers across the U.S.!)</li>
+<li>100% lead-free cotton wicks.</li>
+<li>Paraffin free, dye free, and cruelty free. This fragrance is also phthalate and paraben free.</li>
+</ul>
+<p data-mce-fragment="1">WEIGHT: 12.7 oz (359.2 g)</p>
+<p data-mce-fragment="1">DIMENSIONS: 5” x 3” x 3”</p>
+<p data-mce-fragment="1">Enjoy Apple Butter in <a href="https://antiquecandleco.com/collections/apple-butter" data-mce-fragment="1" data-mce-href="https://antiquecandleco.com/collections/apple-butter">additional sizes and products</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 - $39</s:tag>
+    <s:tag>16 oz candles</s:tag>
+    <s:tag>40% off Cyber Monday</s:tag>
+    <s:tag>_tab1_aa-shipping-returns</s:tag>
+    <s:tag>_tab2_candle-care-101</s:tag>
+    <s:tag>_tab3_happiness-guarantee-2</s:tag>
+    <s:tag>Apple Butter</s:tag>
+    <s:tag>B2G1</s:tag>
+    <s:tag>Best Seller Tag</s:tag>
+    <s:tag>Best-Sellers</s:tag>
+    <s:tag>BFCM 2023</s:tag>
+    <s:tag>BFCM 2024</s:tag>
+    <s:tag>black friday</s:tag>
+    <s:tag>BYOB 16 oz Collection</s:tag>
+    <s:tag>Cyber Monday 2022</s:tag>
+    <s:tag>facebookads</s:tag>
+    <s:tag>Fall Candles</s:tag>
+    <s:tag>Fall Launch 24</s:tag>
+    <s:tag>JFS 16oz</s:tag>
+    <s:tag>Last Chance</s:tag>
+    <s:tag>Last Chance Page</s:tag>
+    <s:tag>Mason Jar Collection</s:tag>
+    <s:tag>Not TF Shop All</s:tag>
+    <s:tag>notmatches</s:tag>
+    <s:tag>on_facebook</s:tag>
+    <s:tag>Sale Page</s:tag>
+    <s:tag>Selling out for the season</s:tag>
+    <s:tag>Shop All</s:tag>
+    <s:tag>Shop Small</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:variant>
+      <id>https://antiquecandleco.com/products/6589672063073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.80</s:price>
+      <s:sku>AB 16</s:sku>
+      <s:grams>640</s:grams>
+    </s:variant>
+  </entry>
+</feed>

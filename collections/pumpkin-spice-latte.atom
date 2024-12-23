@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://antiquecandleco.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://antiquecandleco.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://antiquecandleco.com/collections/pumpkin-spice-latte.atom"/>
+  <title>Antique Candle Co.</title>
+  <updated>2024-09-10T07:46:17-04:00</updated>
+  <author>
+    <name>Antique Candle Co.</name>
+  </author>
+  <entry>
+    <id>https://antiquecandleco.com/products/7016181956705</id>
+    <published>2024-09-10T07:46:17-04:00</published>
+    <updated>2024-09-10T07:46:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://antiquecandleco.com/products/pumpkin-spice-latte-16-oz-candle"/>
+    <title>Pumpkin Spice Latte 16 oz candle</title>
+    <s:type>16 oz Candle</s:type>
+    <s:vendor>Antique Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/8831/5233/files/FC_Tina_Product_8-24__image_2_-final_JPEG_export-3.jpg?v=1725976375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antique Candle Co.<br>
+        <strong>Type: </strong>16 oz Candle<br>
+        <strong>Price: </strong>
+            22.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-contrast="auto" style="font-size: 0.875rem;"><em><strong><span class="author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovvls4um6z83zz83zz87zz66zz72zuilz82zz81zz85zz77zz86zz83z9a2z77z5ns6kt" data-mce-fragment="1">Only available while supplies last! Once it's gone, it's gone for good.</span></strong></em></span></p>
+<p><span data-contrast="auto" style="font-size: 0.875rem;">Pumpkin Spice Latte is a spiced medley of cinnamon, nutmeg, and clove intertwined with a warm and soothing blend of sweet pumpkin, rich maple, and vanilla cream in freshly brewed espresso. </span></p>
+<p><span class="author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovvls4um6z83zz83zz87zz66zz72zuilz82zz81zz85zz77zz86zz83z9a2z77z5ns6kt" data-mce-fragment="1"><span data-mce-fragment="1">BURN TIME + STRENGTH: </span><em data-mce-fragment="1">Up to 64 hours of burn </em><em>time. </em>This <span data-contrast="auto" style="font-size: 0.875rem;"> spiced and bakey fragrance features a moderate scent that is truly the classic of the season with all the best, cozy smells of a PSL, without the line at the coffee shop</span><span class="author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovvls4um6z83zz83zz87zz66zz72zuilz82zz81zz85zz77zz86zz83z9a2z77z5ns6kt">.</span></span><br></p>
+<div style="text-align: center;">
+<div style="text-align: left;">
+<p data-mce-fragment="1">INGREDIENTS: Our candles are made in Lafayette, Indiana with a clean, long-lasting, and even burn thanks to high-quality materials.</p>
+<ul>
+<li>100% natural soy wax from domestically grown soy beans.</li>
+<li>Premium fragrance oils (hand-picked by thousands of candle testers across the U.S.!)</li>
+<li>100% lead-free cotton wicks.</li>
+<li>Paraffin free, dye free, and cruelty free. This fragrance is also phthalate and paraben free.</li>
+</ul>
+<p>WEIGHT: 12.7 oz (359.2 g)</p>
+<p>DIMENSIONS: 5” x 3” x 3”</p>
+<p>Enjoy Pumpkin Spice Latte and more in our <a href="https://antiquecandleco.com/collections/coffee-collection">Coffee Collection</a>.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20 - $39</s:tag>
+    <s:tag>16 oz candles</s:tag>
+    <s:tag>40% off Cyber Monday</s:tag>
+    <s:tag>_tab1_aa-shipping-returns</s:tag>
+    <s:tag>_tab2_candle-care-101</s:tag>
+    <s:tag>_tab3_happiness-guarantee-2</s:tag>
+    <s:tag>B2G1</s:tag>
+    <s:tag>BFCM 2024</s:tag>
+    <s:tag>BYOB 16 oz Collection</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>facebookads</s:tag>
+    <s:tag>Fall Candles</s:tag>
+    <s:tag>Last Chance</s:tag>
+    <s:tag>Last Chance Page</s:tag>
+    <s:tag>Mason Jar Collection</s:tag>
+    <s:tag>Not TF Shop All</s:tag>
+    <s:tag>notmatches</s:tag>
+    <s:tag>on_facebook</s:tag>
+    <s:tag>Pumpkin Candles</s:tag>
+    <s:tag>Pumpkin Spice Latte</s:tag>
+    <s:tag>Sale Page</s:tag>
+    <s:tag>Shop All</s:tag>
+    <s:tag>Shop Small</s:tag>
+    <s:variant>
+      <id>https://antiquecandleco.com/products/7016181956705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.80</s:price>
+      <s:sku>PSL 16</s:sku>
+      <s:grams>640</s:grams>
+    </s:variant>
+  </entry>
+</feed>
