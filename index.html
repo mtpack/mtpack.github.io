@@ -4850,6 +4850,151 @@ s
 
 
       </style>
+      <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        .carousel-container {
+            width: 100%;
+            overflow: hidden;
+            padding: 20px;
+            background-color: #fff;
+            position: relative;
+        }
+
+        .carousel-track {
+            display: flex;
+            gap: 15px;
+            transition: transform 0.3s ease-in-out;
+            width: max-content; /* Allows the track to expand based on content */
+        }
+
+        .carousel-slide {
+            position: relative;
+            flex: 0 0 auto;
+            width: 300px;
+            height: 200px;
+            overflow: hidden;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .carousel-slide img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .carousel-slide:hover img {
+            transform: scale(1.1);
+        }
+
+        .carousel-slide:hover .overlay {
+            opacity: 0.88;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgb(255, 189, 65);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: #ffffff;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .carousel-slide {
+                width: 80vw; /* Adjust width for smaller screens */
+                height: 150px; /* Adjust height for smaller screens */
+            }
+
+            .overlay {
+                font-size: 16px; /* Adjust font size for smaller screens */
+            }
+        }
+      </style>
+      <div class="carousel-container">
+        <div class="carousel-track" id="carousel-track">
+            <div class="carousel-slide">
+                <img src="./pictureUpdate/IMG_5913.JPG" alt="Image 1">
+                <div class="overlay">Beauty</div>
+            </div>
+            <div class="carousel-slide">
+                <img src="./pictureUpdate/IMG_5916.JPG" alt="Image 2">
+                <div class="overlay">Calm</div>
+            </div>
+            <div class="carousel-slide">
+                <img src="./pictureUpdate/IMG_5918.JPG" alt="Image 3">
+                <div class="overlay">Relaxation</div>
+            </div>
+            <div class="carousel-slide">
+                <img src="./pictureUpdate/IMG_5920.JPG" alt="Image 4">
+                <div class="overlay">Serenity</div>
+            </div>
+            <div class="carousel-slide">
+                <img src="./pictureUpdate/IMG_5931.JPG" alt="Image 4">
+                <div class="overlay">Warmth</div>
+            </div>
+            <div class="carousel-slide">
+                <img src="./pictureUpdate/IMG_5932.JPG" alt="Image 4">
+                <div class="overlay">Cozy</div>
+            </div>
+            <div class="carousel-slide">
+                <img src="./pictureUpdate/IMG_5933.JPG" alt="Image 4">
+                <div class="overlay">Soothing</div>
+            </div>
+            <div class="carousel-slide">
+                <img src="./pictureUpdate/IMG_5934.JPG" alt="Image 4">
+                <div class="overlay">Mood</div>
+            </div>
+        </div>
+      </div>
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const carouselTrack = document.getElementById('carousel-track');
+            const slides = carouselTrack.querySelectorAll('.carousel-slide');
+            const slideWidth = slides[0].offsetWidth + 15; // Include gap
+            let scrollAmount = 0;
+
+            // Clone the slides to create an infinite loop effect
+            slides.forEach(slide => {
+                const clone = slide.cloneNode(true);
+                carouselTrack.appendChild(clone);
+            });
+
+            function slide() {
+                scrollAmount += slideWidth;
+                carouselTrack.style.transition = 'transform 0.5s ease-in-out';
+                carouselTrack.style.transform = `translateX(-${scrollAmount}px)`;
+
+                if (scrollAmount >= carouselTrack.scrollWidth / 2) {
+                    setTimeout(() => {
+                        carouselTrack.style.transition = 'none';
+                        scrollAmount = 0;
+                        carouselTrack.style.transform = `translateX(0)`;
+                    }, 500); // Match the transition duration
+                }
+            }
+
+            setInterval(slide, 2500); // Slide every 2.5 seconds
+        });
+      </script>
       <div class="about-wrapper">
     <div class="about-section">
         <p class="about-header">Our 100% Happiness Guarantee</p>
