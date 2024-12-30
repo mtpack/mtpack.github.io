@@ -5012,6 +5012,7 @@
     padding: 20px;
 }
 
+/* General styling for both desktop and mobile */
 .about-wrapper {
     display: flex;
     justify-content: space-between;
@@ -5020,6 +5021,7 @@
     margin: 0 auto;
     padding: 40px;
     gap: 30px; /* Adds space between the two sections */
+    flex-wrap: wrap; /* Allows content to wrap on smaller screens */
 }
 
 .about-section {
@@ -5028,6 +5030,7 @@
     background-color: #f9f9f9;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Soft shadow for the section */
+    flex: 1 1 45%; /* Flexibly takes up 45% of the container width on larger screens */
 }
 
 .about-header {
@@ -5063,21 +5066,64 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex: 1;
+    flex: 1 1 45%; /* Flexibly takes up 45% of the container width on larger screens */
+    max-width: 500px;
+    margin-left: 20px;
 }
 
 .oval-video {
-    width: 350px;
-    height: 300px;
+    width: 100%;
+    height: auto;
+    max-width: 350px;
+    max-height: 280px;
     object-fit: cover;
     border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    transition: transform 0.3s ease; 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Adds a soft shadow to the video */
+    transition: transform 0.3s ease; /* Smooth animation on hover */
 }
 
 .oval-video:hover {
-    transform: scale(1.15); 
+    transform: scale(1.05); /* Slight zoom effect on hover */
 }
+
+/* Mobile-friendly adjustments */
+@media (max-width: 768px) {
+    .about-wrapper {
+        flex-direction: column; /* Stack sections vertically on smaller screens */
+        padding: 20px;
+        gap: 20px;
+    }
+
+    .about-section {
+        max-width: 100%;
+        flex: 1 1 100%; /* Takes up full width on small screens */
+    }
+
+    .video-container {
+        max-width: 100%;
+    }
+
+    .oval-video {
+        max-width: 500px;
+        max-height: 300px;
+    }
+
+    .about-header {
+        font-size: 20px;
+    }
+
+    .about-body {
+        font-size: 14px;
+    }
+
+    .about-button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+}
+
+s
+
 
 
       </style>
@@ -5092,7 +5138,7 @@
 
     <div class="video-container">
         <video class="oval-video" autoplay loop muted>
-            <source src="./20241230_011342.mp4" type="video/mp4">
+            <source src="./newvideo.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
